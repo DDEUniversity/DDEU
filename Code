@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DDE University</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #004080;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    .container {
+      padding: 30px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .class {
+      background: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .class h2 {
+      margin-top: 0;
+      color: #004080;
+    }
+    blockquote {
+      font-style: italic;
+      color: #555;
+      text-align: center;
+      margin: 40px 0;
+    }
+    footer {
+      background: #004080;
+      color: white;
+      text-align: center;
+      padding: 15px 0;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to DDE University</h1>
+    <p>"Knowledge is power, knowledge is safety, knowledge is happiness." - Thomas Jefferson</p>
+  </header>
+    <div class="class">
+      <h2>Psychology</h2>
+      <p><strong>Instructor:</strong> Parker</p>
+      <p>This class delves into the fascinating world of human psychology, exploring how people think, feel, and behave. Topics include cognitive processes, emotional development, social interactions, and psychological disorders.</p>
+    </div>
+
+    <div class="class">
+      <h2>AP History</h2>
+      <p><strong>Instructor:</strong> Jak</p>
+      <p>In this advanced placement history course, students will analyze significant historical events, figures, and movements across global civilizations. The class emphasizes critical thinking, research skills, and historical interpretation.</p>
+    </div>
+
+    <div class="class">
+      <h2>Chinese</h2>
+      <p><strong>Instructor:</strong> Insane</p>
+      <p>This immersive course introduces students to the Chinese language and culture. Students will learn basic conversation skills, character writing, pronunciation, and cultural traditions through engaging, interactive lessons.</p>
+    </div>
+
+  <footer>
+    <p>Contact Us: <a href="mailto:discorddemocracyuniversity@gmail.com" style="color: white; text-decoration: underline;">discorddemocracyuniversity@gmail.com</a></p>
+  </footer>
+</body>
+</html>
